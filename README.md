@@ -1,5 +1,6 @@
 # android_device_xiaomi_prada
 # Common device configuration for Xiaomi Redmi 4
+# Status: Building error (Need source code of kernel)
 
 ## Spec Sheet
 
